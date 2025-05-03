@@ -1,4 +1,4 @@
-# Air-Quality-Analysis-Forecasting
+# Air-Quality-Analysis-Forecasting (VILAS, HARSH, APURVA)
 This repository provides an end-to-end workflow for cleaning, modeling, and visualizing air quality data across U.S. geographic areas
 Data Wrangling (data_wrangling.py): Clean raw CSV into a standardized data frame using Polars.
 
